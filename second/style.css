@@ -1,0 +1,44 @@
+.column {
+  height: 100vh;
+  width: 33%;
+  margin: 0;
+  float: left;
+}
+
+.skyblue {
+  background-color: #4990E2;
+  float: left;
+  height: 100vh;
+  width: 250px;
+  margin: 0 auto;
+}
+.container2 {
+  background-color: #4FE3C1;
+  float: left;
+  height:100vh;
+  width: 240px;
+  margin: 0 auto;
+}
+.containerred {
+  background-color: #D3021C;
+  float: left;
+  height: 100vh;
+  width: 28%;
+  margin: 0 auto;
+  background-color: red;
+}
+.container3{
+  background-color: #red;
+  height: 200px;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  color: white;
+  size: 16px;
+  line-height: 110px;
+}
+.lightgreen{
+  background-color: #B9E888;
+  height: 600px;
+  width: 100%;
+}
